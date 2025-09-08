@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@radix-ui/react-collapsible": "^1.1.12",
+    "cmdk": "^1.1.1",
+    "lucide-react": "^0.542.0"
+  }
+}
